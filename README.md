@@ -68,30 +68,29 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-Output:
-Dataset
+## Dataset
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/e58ee326-830e-4a42-b9d7-95829da8d08d)
 
-Head Values:
+## Head Values:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/1132d907-627e-48e2-b667-0e8c2ff4da68)
 
 
-Tail Values:
+## Tail Values:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/7dcc5fca-353b-4492-a856-b58e7421abc3)
 
 
-X and Y values:
+## X and Y values:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/4b79919c-b0f8-44e8-a57e-1c8c8a69ce12)
 
 
-Predication values of X and Y:
+## Predication values of X and Y:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/c6d11696-d44c-4f73-abdb-2279495e255a)
 
-MSE,MAE and RMSE:
+## MSE,MAE and RMSE:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/5c39f0a3-99e4-4b1f-a9cb-845151a1fc76)
 
 
-Training Set:
+## Training Set:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/726471e0-4cbc-4764-9aa8-2151100e26f2)
 
 
