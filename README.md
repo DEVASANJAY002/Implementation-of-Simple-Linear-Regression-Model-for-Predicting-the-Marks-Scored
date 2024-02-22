@@ -94,7 +94,7 @@ print("RMSE= ",rmse)
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/726471e0-4cbc-4764-9aa8-2151100e26f2)
 
 
-Testing Set:
+## Testing Set:
 ![image](https://github.com/DEVASANJAY002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/152069249/1fd5bd8b-5d17-4e9d-b9ac-df37898420fc)
 
 
